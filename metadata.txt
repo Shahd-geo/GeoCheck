@@ -1,0 +1,10 @@
+
+[general]
+name=GeoCheck
+qgisMinimumVersion=3.28
+description=Spatial Data Quality Assessment Tool
+version=1.0
+author=Shahd Alabdali
+email=
+about=GeoCheck checks geometry, duplicates, attributes and CRS, and calculates a spatial data quality score.
+category=Vector
